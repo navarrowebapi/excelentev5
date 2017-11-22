@@ -1,0 +1,8 @@
+{
+  "name": "excelentev5",
+  "app_id": "f028a6bd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
