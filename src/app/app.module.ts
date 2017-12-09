@@ -9,8 +9,10 @@ import { NativeStorage } from '@ionic-native/native-storage';
 import { File } from '@ionic-native/file';
 
 
+
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
+import { stagger } from '@angular/core/src/animation/dsl';
 
 @NgModule({
   declarations: [
